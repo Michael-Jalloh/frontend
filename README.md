@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dashboard
 
 > An Information Display Dashboard project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+#Vue Blog
+>>>>>>> dc52d7773d0dafcd317b06ee319cbc87a59bcb3c
